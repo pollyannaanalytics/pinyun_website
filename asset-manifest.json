@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pinyun_wu/static/css/main.d8679900.css",
-    "main.js": "/pinyun_wu/static/js/main.43554544.js",
-    "static/media/lifephoto.png": "/pinyun_wu/static/media/lifephoto.90787df8e7373572e1d8.png",
-    "static/media/profolio_pinyun.png": "/pinyun_wu/static/media/profolio_pinyun.127e83e2b2b4e44f0b6f.png",
-    "static/media/PinYunWu_CV.pdf": "/pinyun_wu/static/media/PinYunWu_CV.e4f102dd98d1231b838e.pdf",
-    "index.html": "/pinyun_wu/index.html",
-    "main.d8679900.css.map": "/pinyun_wu/static/css/main.d8679900.css.map",
-    "main.43554544.js.map": "/pinyun_wu/static/js/main.43554544.js.map"
+    "main.css": "/pinyun_website/static/css/main.d8679900.css",
+    "main.js": "/pinyun_website/static/js/main.4c40ecbf.js",
+    "static/media/lifephoto.png": "/pinyun_website/static/media/lifephoto.90787df8e7373572e1d8.png",
+    "static/media/profolio_pinyun.png": "/pinyun_website/static/media/profolio_pinyun.127e83e2b2b4e44f0b6f.png",
+    "static/media/PinYunWu_CV.pdf": "/pinyun_website/static/media/PinYunWu_CV.e4f102dd98d1231b838e.pdf",
+    "index.html": "/pinyun_website/index.html",
+    "main.d8679900.css.map": "/pinyun_website/static/css/main.d8679900.css.map",
+    "main.4c40ecbf.js.map": "/pinyun_website/static/js/main.4c40ecbf.js.map"
   },
   "entrypoints": [
     "static/css/main.d8679900.css",
-    "static/js/main.43554544.js"
+    "static/js/main.4c40ecbf.js"
   ]
 }
