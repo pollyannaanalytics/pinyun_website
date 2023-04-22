@@ -24,8 +24,9 @@ const About = () => {
                         I am skilled in leveraging technology to design visually appealing and user-friendly web applications.
                         With a continuous focus on enhancing my frontend development skills, I am actively seeking opportunities to contribute to innovative projects as a Frontend Developer.
                     </p>
-
-                    <a href="#contact" className='btn'>Let's Talk</a>
+                    <div className="contact__btn">
+                        <a href="#contact" className='btn'>Let's Talk</a>
+                    </div>
                 </div>
             </div>
         </section>

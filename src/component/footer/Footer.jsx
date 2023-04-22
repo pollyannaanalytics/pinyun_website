@@ -19,11 +19,6 @@ const Footer = () => {
                 <li><a href="#contact">Contact</a></li>
 
             </ul>
-
-
-            <div className='copy__right'>
-                <small>This website design is enlightened by EGATOR Tutorial</small>
-            </div>
         </footer>
     )
 }
