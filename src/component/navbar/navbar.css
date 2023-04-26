@@ -36,7 +36,10 @@ nav a.active{
 
 @media screen and (max-width: 1024px){
     nav{
-        width: 35%;
+        width: 45%;
+        left: 50%;
+        display: flex;
+        justify-content:space-between;
 
     }
 
