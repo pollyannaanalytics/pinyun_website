@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pinyun_website/static/css/main.02be644c.css",
-    "main.js": "/pinyun_website/static/js/main.7039ed6a.js",
+    "main.css": "/pinyun_website/static/css/main.d9688b2d.css",
+    "main.js": "/pinyun_website/static/js/main.39a1fd2f.js",
     "static/media/lifephoto.png": "/pinyun_website/static/media/lifephoto.90787df8e7373572e1d8.png",
     "static/media/profolio_pinyun.png": "/pinyun_website/static/media/profolio_pinyun.127e83e2b2b4e44f0b6f.png",
-    "static/media/PinYunWu_CV.pdf": "/pinyun_website/static/media/PinYunWu_CV.c8d0e03f30441b92b57a.pdf",
+    "static/media/PinYunWu_FE_Dev.pdf": "/pinyun_website/static/media/PinYunWu_FE_Dev.a7fcaf07a0f4dcf05a15.pdf",
     "index.html": "/pinyun_website/index.html",
-    "main.02be644c.css.map": "/pinyun_website/static/css/main.02be644c.css.map",
-    "main.7039ed6a.js.map": "/pinyun_website/static/js/main.7039ed6a.js.map"
+    "main.d9688b2d.css.map": "/pinyun_website/static/css/main.d9688b2d.css.map",
+    "main.39a1fd2f.js.map": "/pinyun_website/static/js/main.39a1fd2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.02be644c.css",
-    "static/js/main.7039ed6a.js"
+    "static/css/main.d9688b2d.css",
+    "static/js/main.39a1fd2f.js"
   ]
 }
