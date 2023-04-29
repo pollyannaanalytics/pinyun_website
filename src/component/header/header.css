@@ -1,5 +1,5 @@
 header {
-    height: 100vh;
+    height: 120vh;
     padding-top: 3rem;
     overflow: hidden;
     margin-top: 5px;
@@ -80,7 +80,7 @@ header {
 /* ============= profolio photo ============== */
 .me {
     background: var(--color-primary);
-    width: 50%;
+    width: 40%;
     height: 50%;
     left: 50%;
     transform: translate(-50%, 0%);
@@ -90,6 +90,8 @@ header {
     position: absolute;
     background-color: var(--color-background);
 }
+
+
 
 .scroll_down {
     position: absolute;
@@ -104,7 +106,7 @@ header {
 /* ================= MEDIA QUERIES (medium device)===================== */
 @media screen and (max-width: 1024px) {
     header {
-        height: 100vh;
+        height: 120vh;
     }
 
 
@@ -114,17 +116,31 @@ header {
         left: 50%;
         transform: translate(-50%, 0%);
         margin-bottom: 5%;
-        
+
     }
 
     .me>img {
         box-sizing: content-box;
         left: 0;
         right: 0;
-        
 
-    
+
+
     }
+
+    .header_social{
+        display: inline-block;
+        width: 100%;
+        padding: 0%;
+        transform: scale(3);
+    }
+
+    .header_social > a{
+        margin: 0 auto;
+        padding: 0% 1.5%;
+        width: 100%;
+        
+     }
 }
 
 /* ================= MEDIA QUERIES (small device)===================== */
@@ -147,17 +163,30 @@ header {
         transform: translate(-50%, 0%);
     }
 
-    .me > img{
+    .me>img {
         box-sizing: content-box;
     }
 
-    
 
 
 
-    .header_social,
-    .scroll_down {
+
+    .header_social{
+        display: inline-block;
+        width: 100%;
+        padding: 0%;
+        transform: scale(2);
+    }
+
+    .scroll_down{
         display: none;
+    }
+
+    .header_social > a{
+       margin: 0 auto;
+       padding: 0% 5%;
+       width: 100%;
+       
     }
 
     .header__container .btn {

@@ -1,5 +1,5 @@
 import React from 'react'
-import PinYun_CV from '../../asset/PinYunWu_CV.pdf'
+import PinYun_CV from '../../asset/PinYunWu_FE_Dev.pdf'
 const CTA = () => {
     return (
         <div className='cta'>
