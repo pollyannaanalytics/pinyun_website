@@ -22,9 +22,9 @@ const Experience = () => {
 
 
                             <div className='item2'>
-                                <BsFillPatchCheckFill className='experience__detail-icon' />
+                                <BsFillPatchCheckFill className='expe`rience__detail-icon' />
                                 <h4>CSS</h4>
-                                <small className='text-light'>Tailwind, SCSS</small>
+                                <small className='text-light'>CSS3</small>
                             </div>
 
                             <div className='item3'>

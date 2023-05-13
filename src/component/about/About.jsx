@@ -20,7 +20,7 @@ const About = () => {
                     <p>
                         Hi, This is PinYun, You can call me PY as well.
                         <br />
-                        As an ambitious recent graduate, I possess proficiency in JS, Python, React, Tailwind CSS, and SQL.
+                        As an ambitious recent graduate, I possess proficiency in JS, Python, React, CSS, and SQL.
                         I am skilled in leveraging technology to design visually appealing and user-friendly web applications.
                         With a continuous focus on enhancing my frontend development skills, I am actively seeking opportunities to contribute to innovative projects as a Frontend Developer.
                     </p>
