@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pinyun_website/static/css/main.d9688b2d.css",
-    "main.js": "/pinyun_website/static/js/main.39a1fd2f.js",
+    "main.css": "/pinyun_website/static/css/main.8ddda588.css",
+    "main.js": "/pinyun_website/static/js/main.f88ff227.js",
+    "static/media/Pin-Yun Wu 中文履歷.pdf": "/pinyun_website/static/media/Pin-Yun Wu 中文履歷.906483d05f52153c7826.pdf",
     "static/media/lifephoto.png": "/pinyun_website/static/media/lifephoto.90787df8e7373572e1d8.png",
     "static/media/profolio_pinyun.png": "/pinyun_website/static/media/profolio_pinyun.127e83e2b2b4e44f0b6f.png",
-    "static/media/PinYunWu_FE_Dev.pdf": "/pinyun_website/static/media/PinYunWu_FE_Dev.a7fcaf07a0f4dcf05a15.pdf",
     "index.html": "/pinyun_website/index.html",
-    "main.d9688b2d.css.map": "/pinyun_website/static/css/main.d9688b2d.css.map",
-    "main.39a1fd2f.js.map": "/pinyun_website/static/js/main.39a1fd2f.js.map"
+    "main.8ddda588.css.map": "/pinyun_website/static/css/main.8ddda588.css.map",
+    "main.f88ff227.js.map": "/pinyun_website/static/js/main.f88ff227.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9688b2d.css",
-    "static/js/main.39a1fd2f.js"
+    "static/css/main.8ddda588.css",
+    "static/js/main.f88ff227.js"
   ]
 }
