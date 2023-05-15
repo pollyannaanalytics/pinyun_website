@@ -1,5 +1,5 @@
 import React from 'react'
-import PinYun_CV from '/Users/pollyannawu/Desktop/SideProject/personal-website-main/src/asset/Pin-Yun Wu 中文履歷.pdf'
+import PinYun_CV from '/Users/pollyannawu/Desktop/SideProject/personal-website-main/src/asset/Wu Pinyun.pdf'
 const CTA = () => {
     return (
         <div className='cta'>
